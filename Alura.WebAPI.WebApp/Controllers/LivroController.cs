@@ -49,6 +49,20 @@ namespace Alura.ListaLeitura.WebApp.Controllers
         }
 
         [HttpGet]
+        public IActionResult DetalheSemHTML(int id) {
+
+            var model = _repo.Find(id);
+            if (model == null)
+            {
+                return NotFound(); // se não existir retorno o aviso 404
+            }
+
+            return Json(model.ToModel());
+
+
+        }
+
+        [HttpGet]
         public IActionResult Detalhes(int id)
         {
             var model = _repo.Find(id);
