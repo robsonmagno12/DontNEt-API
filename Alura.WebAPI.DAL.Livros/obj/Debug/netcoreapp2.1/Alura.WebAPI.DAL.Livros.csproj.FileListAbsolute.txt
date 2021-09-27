@@ -3,10 +3,11 @@ C:\Users\Robson Magno\Downloads\Alura.WebAPI.FinalAula3\Alura.WebAPI\Alura.WebAP
 C:\Users\Robson Magno\Downloads\Alura.WebAPI.FinalAula3\Alura.WebAPI\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.pdb
 C:\Users\Robson Magno\Downloads\Alura.WebAPI.FinalAula3\Alura.WebAPI\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
 C:\Users\Robson Magno\Downloads\Alura.WebAPI.FinalAula3\Alura.WebAPI\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
-C:\Users\Robson Magno\Downloads\Alura.WebAPI.FinalAula3\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.csprojAssemblyReference.cache
 C:\Users\Robson Magno\Downloads\Alura.WebAPI.FinalAula3\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.AssemblyInfoInputs.cache
 C:\Users\Robson Magno\Downloads\Alura.WebAPI.FinalAula3\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.AssemblyInfo.cs
 C:\Users\Robson Magno\Downloads\Alura.WebAPI.FinalAula3\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.csproj.CoreCompileInputs.cache
 C:\Users\Robson Magno\Downloads\Alura.WebAPI.FinalAula3\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.csproj.CopyComplete
 C:\Users\Robson Magno\Downloads\Alura.WebAPI.FinalAula3\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.dll
 C:\Users\Robson Magno\Downloads\Alura.WebAPI.FinalAula3\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.pdb
+C:\Users\Robson Magno\Downloads\Alura.WebAPI.FinalAula3\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.csproj.AssemblyReference.cache
+C:\Users\Robson Magno\Downloads\Alura.WebAPI.FinalAula3\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.GeneratedMSBuildEditorConfig.editorconfig

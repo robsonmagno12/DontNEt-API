@@ -4,11 +4,13 @@ using System.Linq;
 using System.Threading.Tasks;
 using Alura.ListaLeitura.Modelos;
 using Alura.ListaLeitura.Persistencia;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using lista = Alura.ListaLeitura.Modelos.ListaLeitura;
 
 namespace Alura.WebAPI.WebApp.Api
 {
+    [Authorize]
     [ApiController]
     [Route("api/[Controller]")]
     public class ListasLeituraController : ControllerBase
@@ -45,9 +47,9 @@ namespace Alura.WebAPI.WebApp.Api
             return Ok(colecao); // retorna a coleção de livro
            
         }
-
+        //endPoint vai ser autenticado
         [HttpGet(" {tipo} ")]
-        public IActionResult Recuperar(TipoListaLeitura tipo) 
+        public IActionResult Recuperar(TipoListaLeitura tipo)
         {
             var lista = CriaLista(tipo);
             return Ok(lista);
